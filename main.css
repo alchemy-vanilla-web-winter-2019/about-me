@@ -13,11 +13,16 @@ header {
 }
 
 .column {
-    text-align: center;
+    display: flex;
+    height: 1200px;
     list-style-type: none;
-    max-width: 250;
-    padding: 30px;
     background: plum;
+}
+
+#centerelement {
+    width: 400px;
+    height: 400px;
+    margin: auto;
 }
 
 footer {
