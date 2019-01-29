@@ -1,0 +1,24 @@
+body {
+    background: teal;
+}
+
+h1 {
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);;
+    color: rgb(80, 9, 80);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(124, 0, 128);
+}
+
+img {
+    width: 40%;
+    height: auto;
+    display: block;
+    
+}
+
+div {
+    box-align: center;
+}
