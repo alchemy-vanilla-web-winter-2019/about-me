@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: rgb(255, 255, 255);
+}
+
+header {
+    font-size: 40px;
+    background:#2F4570;
+    color: white;
+}
+
+main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+
+img {
+    height: 350px;
+    width: 600px;
+}
+
+footer {
+    font-size: 16px;
+    text-align: center;
+}
