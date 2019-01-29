@@ -1,44 +1,40 @@
 header {
     background: rgb(21, 131, 168);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(10, 10, 71);
     padding: 20px;
     text-align: center;
     border-style: solid;
 }
 
-body {
-    background-color: burlywood;
-}
-
 h2 {
-    color: rgb(206, 81, 9);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(150, 84, 146);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     size: 30px;
 }
 
 h3 {
-    color:  rgb(206, 81, 9);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(150, 84, 146);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     size: 28px;
 }
 
 h4 {
-    color:  rgb(206, 81, 9);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:  rgb(150, 84, 146);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     size: 28px;
 }
 
 ul {
     list-style: none;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 p {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 img {
-    width: 600px;
-    align-content: center;
+    width: 200px;
+    align: center;
 }
