@@ -1,0 +1,10 @@
+* {
+    background: red;
+    text-align: center;
+}
+
+img {
+    border: 3px solid blue;
+    border-radius: 120px 0px 120px 0px;
+}
+
