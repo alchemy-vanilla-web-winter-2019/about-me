@@ -1,0 +1,37 @@
+body {
+    
+}
+
+header { 
+    background: grey;
+    border: 3px inset darkgreen;
+    color: whitesmoke;
+    padding: 8px;
+    font-family: sans-serif
+}
+
+h2 {
+    font-style: italic;
+}
+
+footer {
+    background: grey;
+    border: 3px inset darkgreen;
+    color: whitesmoke;
+    padding: 8px;
+    font-size: 10px;
+}
+
+#caption {
+    font-size: 11px;
+
+}
+p {
+    font-family: sans-serif;
+}
+h3 {
+    font-family: sans-serif;
+}
+li {
+    font-family: sans-serif;
+}
