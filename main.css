@@ -1,0 +1,35 @@
+img {
+    width: 200px;
+    border-color: aqua;
+    border-style: double;
+    margin: 10px;
+    border-radius: 30px;
+    border-width: 15px;
+    
+    
+}
+
+header {
+    background: tomato;
+    color: khaki;
+    border-style: solid;
+    border-bottom-color:indianred;;
+    border-left-color: indianred;
+    border-radius: 20px   
+    
+}
+
+body {
+    text-align: center;
+    background: orchid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h2 {
+    background: tomato;
+    color: khaki;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
