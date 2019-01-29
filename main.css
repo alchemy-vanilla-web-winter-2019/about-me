@@ -1,0 +1,27 @@
+body {
+    background-color: blueviolet;
+    color: white;
+}
+
+ul {
+    list-style-type: square; 
+}
+
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+footer {
+    font-size: 10px;
+    
+    color: black;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+h2#interests {
+    color: rgb(81, 216, 216);
+}
