@@ -15,3 +15,9 @@ h1 {
 p {
     font-size: 0.75em;
 }
+
+img {
+    display: block;
+    margin: auto;
+    width: 30%;
+}
