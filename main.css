@@ -1,0 +1,19 @@
+header {
+    background-color: lavenderblush;
+    color: rgb(89, 89, 89);
+    border-style: dotted;
+    font-size:250%;
+    text-align: center;
+
+
+}
+p1 {
+    image-rendering: center;
+}
+h1 {
+    background: lavenderblush;
+    color: rgb(138, 138, 138);
+    border-style: dotted;
+}
+
+
