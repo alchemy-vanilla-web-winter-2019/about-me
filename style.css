@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+}
+header {
+    text-align: center;
+    background: teal;
+    color: rgba(255 , 255, 255, 0.80);
+    padding-bottom: 1em;
+}
+h1 {
+    background: black;
+}
+p {
+    font-family: Georgia, serif;
+}
+body {
+    font-family: Verdana, sans-serif;
+}
+footer {
+    position: bottom;
+    text-align: center;
+}
