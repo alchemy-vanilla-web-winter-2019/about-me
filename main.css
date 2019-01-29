@@ -1,0 +1,13 @@
+body {
+    
+}
+
+header { 
+    background: grey;
+    border: 8px inset darkgreen;
+    color: whitesmoke;
+}
+
+footer {
+    background: lightcoral
+}
