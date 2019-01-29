@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  background: rgb(87, 59, 59);
+  
+}
+
+body {
+  background: tan;
+
+}
+
+.intro-p {
+  font-size: 18px;
+}
+
+h2 {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+img {
+  width: 300px;
+  display: block;
+}
