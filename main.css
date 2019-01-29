@@ -19,9 +19,12 @@ h2 {
 
 li {
   list-style-type: none;
+  text-align: center;
 }
 
 img {
-  width: 300px;
+  width: 50%;
   display: block;
+  margin: auto;
+  padding: 20px;
 }
