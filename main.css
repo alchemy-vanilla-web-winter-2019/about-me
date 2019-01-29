@@ -3,7 +3,7 @@
 body{
     background-image: url("https://previews.123rf.com/images/sergieiev/sergieiev1211/sergieiev121100142/16358664-natural-amethyst-crystal-background-amethyst-is-a-violet-variety-of-quartz.jpg");
     text-align: center;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
     color: whitesmoke;
 }
 
@@ -19,12 +19,30 @@ footer{
     background: whitesmoke;
     color: plum;
     align-content: center;
+    margin: 20px;
+}
+
+h2{
+    font-style: italic;
 }
 
 .cara-topic{
     margin: 0 auto;
-    width: 75%;
+    width: 50%;
     align-content: center;
+    padding: 20px;
+}
+
+.photo{
+    width: 60%;
+}
+
+#introduction{
+    background: purple;
+}
+
+#hobbies{
+    background: lightpink;
 }
 
 ul {
